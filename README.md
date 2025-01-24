@@ -26,7 +26,7 @@ To run the tests in headless mode, use the command:
 
 To open Cypress in interactive mode, use the command:
 
-`npm run cy:open``
+`npm run cy:open`
 
 ## Mobile Configuration
 
